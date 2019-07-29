@@ -10,6 +10,6 @@ h1 { display:none; }
 </head>
 
 <body>
-<p>{"电话号码价值":{"ver":"1.0","IC":"https:\/\/www.icloud.com\/shortcuts\/3e6ffcca24cf45fe9a5f21e8ba8400a0","update":"采用词典方式"},"iOS配置文件":{"ver":"1.0","IC":"113","update":"额"}}</p>
+<p>{"电话号码价值":{"ver":"1.0","IC":"https:\/\/www.icloud.com\/shortcuts\/3e6ffcca24cf45fe9a5f21e8ba8400a0","update":"采用词典方式"},"iOS配置文件":{"ver":"1.1","IC":"https:\/\/www.icloud.com\/shortcuts\/31e3e18af01640bf905d42eecb0de96c","update":"更新iOS13 beta5 下载！"}}</p>
 </body>
 </html>
